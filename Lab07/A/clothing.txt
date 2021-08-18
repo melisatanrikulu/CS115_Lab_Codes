@@ -1,0 +1,6 @@
+ankle pants;gray;m;44.5;35;
+short sleeve t-shirt;white;l;27.5;15;
+straight cut pants;gray;m;98.0;20;
+skinny pants;black;l;115.0;18;
+button down shirt;blue;s;58;12;
+spring jacket;white;l;125;8;

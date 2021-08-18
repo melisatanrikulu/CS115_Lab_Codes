@@ -1,0 +1,10 @@
+Charlena Tebbs;20170225;True;70
+Arlie Peek;20170525;False
+Elwood Depaul;20161205;True;65
+Janell Huey;20170809;True;80  
+Syreeta Coachman;20170314;False
+Lenore Bechard;20171020;True;35
+Maudie Plummer;20171103;True;90
+Lolita Shore;20170928;True;70 
+Anibal Hammers;20171017;False
+Glory Jester;20171115;True;85

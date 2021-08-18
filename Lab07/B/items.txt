@@ -1,0 +1,5 @@
+Spaghetti bolognese;Spaghetti with an italian meat sauce;8;750;6.5
+Mixed Grill;Mixed kebab meat plate with bulgur;5;1050;12.5
+Iskender Kebap;Doner meat with bread, yogurt and special sauce;6;800;10.5
+Seasonal Salad;Mixed greens with cheese and a balsamic sauce;10;400;8.5
+Profiterol;Pastry with cream and chocolate sauce;12;700;6.5

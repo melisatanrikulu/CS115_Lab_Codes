@@ -1,0 +1,8 @@
+Charlena Tebbs;20190215;10:15;Ali Ayhan;Dentistry;True;70
+Arlie Peek;20190216;12:15;Jale Tunç;ENT;False
+Elwood Depaul;20190216;15:30;Mehmet Keskin;Optometry;False
+Janell Huey;20190222;15:30;Melis Koç;ENT;True;80
+Syreeta Coachman;20190215;08:30;Irem Basar;Gastroenterology;False
+Lenore Bechard;20190315;11:00;Ayla Güner;Cardiology;True;35
+Maudie Plummer;20190317;15:30;Elif Som;Optometry;True;90
+Lolita Shore;20190317;10:30;Veysel Karakuş;Cardiology;True;70
