@@ -1,20 +1,17 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Jun 13 14:37:21 2018
-
-@author: b
-"""
-
-# -*- coding: utf-8 -*-
-"""
 Created on Wed Jun 13 14:24:32 2018
 
-@author: b
+@author: Melisa Tanrikulu
 """
+
 import math
 
-#input x value
-x = float(input('Enter x: '))
+# Input a decimal number
+x = float(input('Input x: '))
 
+# Compute the result
 result = ((x * x * x) + 3 * math.fabs(x) + 9) / (x * x)
-print('The result of the calculation is {0:.2f}'.format(result))
+
+# Display the result
+print('The result of the expression: {0:.2f}'.format(result))
